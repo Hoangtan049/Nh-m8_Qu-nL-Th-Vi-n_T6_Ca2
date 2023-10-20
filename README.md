@@ -1,8 +1,8 @@
 ## Quản Lý Thư Viên
 ### Mục lục
-[I. Giới thiệu đề tài](#GioiThieuDeTai)
+[I. GIới thiệu thành viên nhóm](#GioiThieuThanhVienNhom)
 
-[II. GIới thiệu thành viên nhóm](#GioiThieuThanhVienNhom)
+[II. Giới thiệu đề tài](#GioiThieuDeTai)
 
 [III. Chức năng](#Chucnang)
 
@@ -12,7 +12,7 @@
 
 ===========================
 <a name="GioiThieuDeTai"></a>
-## I. Giới thiệu đề tài
+## II. Giới thiệu đề tài
 ![](https://watermark.lovepik.com/photo/20211119/large/lovepik-the-library-is-sunning-on-the-bookshelf-picture_500251143.jpg)
 
 `Hệ thống quản lý thư viện` là một phần mềm hoặc hệ thống thông tin dành riêng cho việc quản lý và tổ chức tài liệu trong một thư viện hoặc cơ sở thư viện. Trang web này giúp thư viện tối ưu hóa các quy trình nhiệm vụ hàng ngày, tạo điều kiện thuận lợi cho cộng đồng người đọc, và tăng cường khả năng cung cấp dịch vụ.
