@@ -5,6 +5,11 @@
 [II. Giới thiệu đề tài](#GioiThieuDeTai)
 
 [III. Chức năng](#Chucnang)
+- [1. Quản lý sách theo tên](#thetieude)
+- [2. Quản lý thẻ mượn sách](#chenlinkchenanh)
+- [3. Tìm kiếm sách theo tên](#kytuindaminnghieng)
+- [4. Cập nhập tình trạng sách](#trichdanbochu)
+
 
 [IV. Technologies and Tools](#Tools)
 
