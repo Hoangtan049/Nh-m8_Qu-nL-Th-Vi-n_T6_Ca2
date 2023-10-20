@@ -1,5 +1,5 @@
-## Quản Lý Thư Viên
-### Mục lục
+# 🔥 Quản Lý Thư Viên  🔥
+## Mục lục
 [I. GIới thiệu thành viên nhóm](#GioiThieuThanhVienNhom)
 
 [II. Giới thiệu đề tài](#GioiThieuDeTai)
@@ -13,14 +13,11 @@
 ===========================
 <a name="GioiThieuThanhVienNhom"></a>
 ## I. Giới thiệu thành viên nhóm
+| STT    | MSSV          | Họ và Tên              |Chức Vụ    | Github                                                  | Email                   |
+| ------ |:-------------:| ----------------------:|----------:|--------------------------------------------------------:|-------------------------:
+| 1      | 21DH112507      | Kiều Minh Huy        |Dev, Product Owner,Team Lead|[Mhuy2804](https://github.com/Mhuy2804)                    |21dh112507@st.huflit.edu.vn  |
+| 2      | 21Dh114099     | Dương Võ Hoàng Tấn     |Dev, ScrumMaster |[HoangTan0409](https://github.com/Hoangtan049)            |21dh114099@st.huflit.edu.vn   |
 
-Ngôn ngữ này khá đơn giản, bạn có thể đọc tại [đây](http://daringfireball.net/projects/markdown/syntax) để biết cách sử dụng.
-
-Nhưng với tôi, tôi không dùng hết từng ấy thứ cho nên tôi chỉ nhớ một số cái tôi hay dùng, cách tôi dùng như sau:
-
-Tạo một file có tên bất kỳ với đuôi .md. Có thể dùng `notepad`, `notepad++`, `vi`, `nano`,... hay bất cứ thứ gì mà bạn muốn.
-
-Một số phương pháp tôi hay sử dụng để viết:
 <a name="GioiThieuDeTai"></a>
 ## II. Giới thiệu đề tài
 ![](https://watermark.lovepik.com/photo/20211119/large/lovepik-the-library-is-sunning-on-the-bookshelf-picture_500251143.jpg)
