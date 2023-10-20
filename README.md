@@ -26,4 +26,9 @@
 Trang web cung cấp khả năng tìm kiếm tài liệu dựa trên nhiều tiêu chí như tựa đề, tác giả, từ khoá, hoặc chủ đề giúp người đọc kiếm được sách hay tài liệu mà mình mong muốn nhanh chống.Người dùng mượn sách có thể theo dõi ngày trả sách
 Trang web giúp thư viện quản lý số lượng sách còn lại trong kho và quản lý xuất/nhập sách.Hệ thống  cung cấp các công cụ để thư viện tạo ra báo cáo về việc sử dụng tài liệu, số lượng đọc giả và các thống kê khác để tối ưu hóa dịch vụ thư viện. Báo cáo thống kê việc sử dụng thư viện và quản lý nguồn  kinh phí  , phí phạt , nguồn thu khác. Hệ thống giúp tăng hiệu suất và giảm thời gian làm việc ,đảm bảo bảo mật
 
+<a name="Chucnang"></a>
+## III. Chức năng
+
+
+
 
