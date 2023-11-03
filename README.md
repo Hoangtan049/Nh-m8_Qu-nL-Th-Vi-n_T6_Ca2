@@ -10,10 +10,11 @@
   - [1.2 Trang Admin](#trangadmin)
   - [1.3 Trang User](#tranguser)
 - [2. Chức năng](#chucnang)
-  - [2.1 Trang chủ](#trangchu)
-  - [2.2 Trang chủ](#trangchu)
-  - [2.3 Trang chủ](#trangchu)
-  - [2.4 Trang chủ](#trangchu)
+  - [2.1 Mượn sách](#muonsach)
+  - [2.2 Tìm kiếm sách theo tên](#timkiem)
+  - [2.3 Quản lý thẻ mượn sách](#qlthemuonsach)
+  - [2.4 Quản lý đọc giả](#qldocgia)
+  - [2.5 Quản lý thư viện sách](#qlthuviensach)
 
 
 
@@ -59,7 +60,12 @@ Trang web giúp thư viện quản lý số lượng sách còn lại trong kho 
 
 <a name="Tools"></a>![trangLogincuaUser](https://github.com/Hoangtan049/Nhom8_QuanLyThuVien_T6_Ca2/assets/132818292/5b9f0dd3-4f18-4ad7-bc16-54490f6854f7)
 
-## III. 🛠 Technologies and Tools 🛠
+<a name="chucnang"></a>
+<h2><strong>Mượn sách</strong></h2>
+<a name="muonsach"></a>
+<h3><strong>Mượn sách</strong></h3>
+
+## IV. 🛠 Technologies and Tools 🛠
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" title="JavaScript" height="25"/> &nbsp;
@@ -82,7 +88,7 @@ Trang web giúp thư viện quản lý số lượng sách còn lại trong kho 
 <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC"  title="Visual Studio Code" height="25"/> &nbsp;
 <img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" title="Firebase" height="25"/> &nbsp;
 <img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" title="WordPress" height="25"/> &nbsp;
-
+## V. Hướng phát triển
 
 
 
