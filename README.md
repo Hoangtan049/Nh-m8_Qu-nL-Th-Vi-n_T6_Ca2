@@ -18,7 +18,7 @@
 
 
 
-[IV. Technologies and Tools](#Tools)
+[IV. 🛠 Công nghệ sử dụng 🛠](#Tools)
 
 [V. Hướng phát triển](#Huongphattrien)
 
@@ -61,11 +61,12 @@ Trang web giúp thư viện quản lý số lượng sách còn lại trong kho 
 <a name="Tools"></a>![trangLogincuaUser](https://github.com/Hoangtan049/Nhom8_QuanLyThuVien_T6_Ca2/assets/132818292/5b9f0dd3-4f18-4ad7-bc16-54490f6854f7)
 
 <a name="chucnang"></a>
-<h2><strong>Mượn sách</strong></h2>
+<h2><strong>Chức năng</strong></h2>
 <a name="muonsach"></a>
 <h3><strong>Mượn sách</strong></h3>
 
-## IV. 🛠 Technologies and Tools 🛠
+<a name="Tools"></a>
+## IV. 🛠 Công nghệ sử dụng 🛠
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" title="JavaScript" height="25"/> &nbsp;
