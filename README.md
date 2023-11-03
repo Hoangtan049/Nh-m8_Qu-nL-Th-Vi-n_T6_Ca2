@@ -1,10 +1,10 @@
 # 🔥 Quản Lý Thư Viên  🔥
 ## Mục lục
-[I. GIới thiệu thành viên nhóm](#GioiThieuThanhVienNhom)
+[I.🌐 GIới thiệu thành viên nhóm 🌐](#GioiThieuThanhVienNhom)
 
-[II. Giới thiệu đề tài](#GioiThieuDeTai)
+[II.📝 Giới thiệu đề tài 📝](#GioiThieuDeTai)
 
-[III. Những nội dung làm được](#noidunglamduoc)
+[III. ✍️ Những nội dung làm được ✍️](#noidunglamduoc)
 - [1. Giao diện](#giaodien)
   - [1.1 Trang chủ](#trangchu)
   - [1.2 Trang Admin](#trangadmin)
@@ -20,19 +20,19 @@
 
 [IV. 🛠 Công nghệ sử dụng 🛠](#Tools)
 
-[V. Hướng phát triển](#Huongphattrien)
+[V. 📈 Hướng phát triển 📈](#Huongphattrien)
 
 
 ===========================
 <a name="GioiThieuThanhVienNhom"></a>
-## I. Giới thiệu thành viên nhóm
+## I. 🌐 GIới thiệu thành viên nhóm 🌐
 | STT    | MSSV          | Họ và Tên              |Chức Vụ    | Github                                                  | Email                   |
 | ------ |:-------------:| ----------------------:|----------:|--------------------------------------------------------:|-------------------------:
 | 1      | 21DH112507      | Kiều Minh Huy        |Dev, Product Owner,Team Lead|[Mhuy2804](https://github.com/Mhuy2804)                    |21dh112507@st.huflit.edu.vn  |
 | 2      | 21Dh114099     | Dương Võ Hoàng Tấn     |Dev, ScrumMaster |[HoangTan0409](https://github.com/Hoangtan049)            |21dh114099@st.huflit.edu.vn   |
 
 <a name="GioiThieuDeTai"></a>
-## II. Giới thiệu đề tài
+## II. 📝 Giới thiệu đề tài 📝
 ![](https://watermark.lovepik.com/photo/20211119/large/lovepik-the-library-is-sunning-on-the-bookshelf-picture_500251143.jpg)
 
 `Hệ thống quản lý thư viện` là một phần mềm hoặc hệ thống thông tin dành riêng cho việc quản lý và tổ chức tài liệu trong một thư viện hoặc cơ sở thư viện. Trang web này giúp thư viện tối ưu hóa các quy trình nhiệm vụ hàng ngày, tạo điều kiện thuận lợi cho cộng đồng người đọc, và tăng cường khả năng cung cấp dịch vụ.
@@ -40,7 +40,7 @@ Trang web cung cấp khả năng tìm kiếm tài liệu dựa trên nhiều ti�
 Trang web giúp thư viện quản lý số lượng sách còn lại trong kho và quản lý xuất/nhập sách.Hệ thống  cung cấp các công cụ để thư viện tạo ra báo cáo về việc sử dụng tài liệu, số lượng đọc giả và các thống kê khác để tối ưu hóa dịch vụ thư viện. Báo cáo thống kê việc sử dụng thư viện và quản lý nguồn  kinh phí  , phí phạt , nguồn thu khác. Hệ thống giúp tăng hiệu suất và giảm thời gian làm việc ,đảm bảo bảo mật
 
 <a name="noidunglamduoc"></a>
-## III. Những nội dung làm được
+## III. ✍️ Những nội dung làm được ✍️
 <a name="giaodien"></a>
 <h2><strong>Giao diện</strong></h2>
 <a name="trangchu"></a>
@@ -66,7 +66,7 @@ Trang web giúp thư viện quản lý số lượng sách còn lại trong kho 
 <h3><strong>Mượn sách</strong></h3>
 
 <a name="Tools"></a>
-## IV. 🛠 Công nghệ sử dụng 🛠
+## IV. 🛠 Công nghệ sử dụng
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" title="JavaScript" height="25"/> &nbsp;
@@ -89,7 +89,7 @@ Trang web giúp thư viện quản lý số lượng sách còn lại trong kho 
 <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC"  title="Visual Studio Code" height="25"/> &nbsp;
 <img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" title="Firebase" height="25"/> &nbsp;
 <img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" title="WordPress" height="25"/> &nbsp;
-## V. Hướng phát triển
+## V.📈 Hướng phát triển 📈
 
 
 
