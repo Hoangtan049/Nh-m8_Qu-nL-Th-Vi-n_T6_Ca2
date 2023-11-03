@@ -6,7 +6,9 @@
 
 [III. Những nội dung làm được](#noidunglamduoc)
 - [1. Giao diện](#giaodien)
-  - [1.1 Trang chủ](#trangchu)    
+  - [1.1 Trang chủ](#trangchu)
+  - [1.2 Trang Admin](#trangadmin)
+  - [1.3 Trang User](#trangusser)
 - [2. Quản lý thẻ mượn sách](#chenlinkchenanh)
 - [3. Tìm kiếm sách theo tên](#kytuindaminnghieng)
 - [4. Cập nhập tình trạng sách](#trichdanbochu)
@@ -41,9 +43,15 @@ Trang web giúp thư viện quản lý số lượng sách còn lại trong kho 
 
 ![trangchu](https://github.com/Hoangtan049/Nhom8_QuanLyThuVien_T6_Ca2/assets/132818292/e3cb8838-92e5-4a40-abe1-7fc2a3152af9)
 
+![trangchu2](https://github.com/Hoangtan049/Nhom8_QuanLyThuVien_T6_Ca2/assets/132818292/61d206dc-e4ca-4c93-96bf-4e7f0ad7da98)
+
+<a name="trangadmin"></a>
+<h2><strong>Trang Admin</strong></h2>
 
 ![trangadmin](https://github.com/Hoangtan049/Nhom8_QuanLyThuVien_T6_Ca2/assets/132818292/7a4de165-7b24-4a74-9e57-bd80aced2c58)
 
+<a name="tranguser"></a>
+<h2><strong>Trang User</strong></h2>
 
 <a name="Tools"></a>![trangLogincuaUser](https://github.com/Hoangtan049/Nhom8_QuanLyThuVien_T6_Ca2/assets/132818292/5b9f0dd3-4f18-4ad7-bc16-54490f6854f7)
 
