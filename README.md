@@ -65,17 +65,28 @@ Trang web giúp thư viện quản lý số lượng sách còn lại trong kho 
 <a name="muonsach"></a>
 <h3><strong>Mượn sách</strong></h3>
 
+![mượn sách](https://github.com/Hoangtan049/Nhom8_QuanLyThuVien_T6_Ca2/assets/132818292/df14ad87-77e1-43c6-876c-9c369ed89d50)
+
 <a name="timkiem"></a>
 <h3><strong>Tìm kiếm sách theo tên</strong></h3>
+
+![timkiemsachtheoten](https://github.com/Hoangtan049/Nhom8_QuanLyThuVien_T6_Ca2/assets/132818292/68821533-eb2a-475a-bba0-5f6195b5d40f)
 
 <a name="qlthemuonsach"></a>
 <h3><strong>Quản lý thẻ mượn sách</strong></h3>
 
+![chitietphieumuon](https://github.com/Hoangtan049/Nhom8_QuanLyThuVien_T6_Ca2/assets/132818292/405b155f-a658-4b39-99d2-7ff31443e872)
+
+
 <a name="qldocgia"></a>
 <h3><strong>Quản lý đọc giả</strong></h3>
 
+![quanlydocgia](https://github.com/Hoangtan049/Nhom8_QuanLyThuVien_T6_Ca2/assets/132818292/13fd5164-273d-4e0f-a21c-505ca4b990f8)
+
 <a name="qlthuviensach"></a>
 <h3><strong>Quản lý thư viện sách</strong></h3>
+
+![quanlythuviensach](https://github.com/Hoangtan049/Nhom8_QuanLyThuVien_T6_Ca2/assets/132818292/e5d10f0d-0403-4efa-b2f3-e756c881a195)
 
 <a name="Tools"></a>
 ## IV. 🛠 Công nghệ sử dụng
