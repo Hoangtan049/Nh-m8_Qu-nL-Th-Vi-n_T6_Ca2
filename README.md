@@ -9,9 +9,12 @@
   - [1.1 Trang chủ](#trangchu)
   - [1.2 Trang Admin](#trangadmin)
   - [1.3 Trang User](#tranguser)
-- [2. Quản lý thẻ mượn sách](#chenlinkchenanh)
-- [3. Tìm kiếm sách theo tên](#kytuindaminnghieng)
-- [4. Cập nhập tình trạng sách](#trichdanbochu)
+- [2. Chức năng](#chucnang)
+  - [2.1 Trang chủ](#trangchu)
+  - [2.2 Trang chủ](#trangchu)
+  - [2.3 Trang chủ](#trangchu)
+  - [2.4 Trang chủ](#trangchu)
+
 
 
 [IV. Technologies and Tools](#Tools)
