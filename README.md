@@ -65,6 +65,18 @@ Trang web giúp thư viện quản lý số lượng sách còn lại trong kho 
 <a name="muonsach"></a>
 <h3><strong>Mượn sách</strong></h3>
 
+<a name="timkiem"></a>
+<h3><strong>Tìm kiếm sách theo tên</strong></h3>
+
+<a name="qlthemuonsach"></a>
+<h3><strong>Quản lý thẻ mượn sách</strong></h3>
+
+<a name="qldocgia"></a>
+<h3><strong>Quản lý đọc giả</strong></h3>
+
+<a name="qlthuviensach"></a>
+<h3><strong>Quản lý thư viện sách</strong></h3>
+
 <a name="Tools"></a>
 ## IV. 🛠 Công nghệ sử dụng
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
