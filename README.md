@@ -43,19 +43,19 @@ Trang web giúp thư viện quản lý số lượng sách còn lại trong kho 
 <a name="giaodien"></a>
 <h2><strong>Giao diện</strong></h2>
 <a name="trangchu"></a>
-<h2><strong>Trang chủ</strong></h2>
+<h3><strong>Trang chủ</strong></h3>
 
 ![trangchu](https://github.com/Hoangtan049/Nhom8_QuanLyThuVien_T6_Ca2/assets/132818292/e3cb8838-92e5-4a40-abe1-7fc2a3152af9)
 
 ![trangchu2](https://github.com/Hoangtan049/Nhom8_QuanLyThuVien_T6_Ca2/assets/132818292/61d206dc-e4ca-4c93-96bf-4e7f0ad7da98)
 
 <a name="trangadmin"></a>
-<h2><strong>Trang Admin</strong></h2>
+<h3><strong>Trang Admin</strong></h3>
 
 ![trangadmin](https://github.com/Hoangtan049/Nhom8_QuanLyThuVien_T6_Ca2/assets/132818292/7a4de165-7b24-4a74-9e57-bd80aced2c58)
 
 <a name="tranguser"></a>
-<h2><strong>Trang User</strong></h2>
+<h3><strong>Trang User</strong></h3>
 
 <a name="Tools"></a>![trangLogincuaUser](https://github.com/Hoangtan049/Nhom8_QuanLyThuVien_T6_Ca2/assets/132818292/5b9f0dd3-4f18-4ad7-bc16-54490f6854f7)
 
