@@ -20,7 +20,7 @@
 [IV. Technologies and Tools](#Tools)
 
 [V. Hướng phát triển](#Huongphattrien)
-[Tổng kết](#Tongket)
+
 
 ===========================
 <a name="GioiThieuThanhVienNhom"></a>
