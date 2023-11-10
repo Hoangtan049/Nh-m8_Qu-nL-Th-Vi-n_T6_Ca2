@@ -108,41 +108,41 @@ Trang web giúp thư viện quản lý số lượng sách còn lại trong kho 
 
     ![1-0912](https://github.com/Hoangtan049/Nhom8_QuanLyThuVien_T6_Ca2/assets/132818292/b0ed987f-7222-402c-9879-6991ea2fe8ec)
 
-3.	`Giao diện người dùng cải tiến:` Cải tiến giao diện người dùng sẽ giúp người dùng dễ dàng tìm kiếm và truy cập tài liệu. Sử dụng thiết kế đáp ứng (responsive design) để đảm bảo tính tương thích trên nhiều thiết bị.
+2.	`Giao diện người dùng cải tiến:` Cải tiến giao diện người dùng sẽ giúp người dùng dễ dàng tìm kiếm và truy cập tài liệu. Sử dụng thiết kế đáp ứng (responsive design) để đảm bảo tính tương thích trên nhiều thiết bị.
 
     ![anh2](https://github.com/Hoangtan049/Nhom8_QuanLyThuVien_T6_Ca2/assets/132818292/c51bc126-8d7e-48ca-9b83-07dd7de6d6dd)
 
-5.	`Tự động hóa quy trình:` Tích hợp tự động hóa để giảm thiểu công việc thủ công và tối ưu hóa quy trình quản lý tài liệu, từ việc nhập liệu đến quản lý mượn/trả sách.
+3.	`Tự động hóa quy trình:` Tích hợp tự động hóa để giảm thiểu công việc thủ công và tối ưu hóa quy trình quản lý tài liệu, từ việc nhập liệu đến quản lý mượn/trả sách.
    
     ![anh3](https://github.com/Hoangtan049/Nhom8_QuanLyThuVien_T6_Ca2/assets/132818292/85d69eb4-760b-4c5b-bb16-a962c59cfcdf)
   
-7.	`An ninh thông tin:` Bảo vệ thông tin và dữ liệu cá nhân của người dùng là một yếu tố quan trọng. Cải thiện an ninh hệ thống và tuân thủ quy định bảo mật dữ liệu.
+4.	`An ninh thông tin:` Bảo vệ thông tin và dữ liệu cá nhân của người dùng là một yếu tố quan trọng. Cải thiện an ninh hệ thống và tuân thủ quy định bảo mật dữ liệu.
 
      ![anh4](https://github.com/Hoangtan049/Nhom8_QuanLyThuVien_T6_Ca2/assets/132818292/52089c5c-f72a-4532-a93e-761adaaa66f8)
 
-6.	`Tương tác người dùng:` Xây dựng các tính năng tương tác như hệ thống đánh giá, bình luận, diễn đàn để tạo cộng đồng người dùng thư viện.
+5.	`Tương tác người dùng:` Xây dựng các tính năng tương tác như hệ thống đánh giá, bình luận, diễn đàn để tạo cộng đồng người dùng thư viện.
    
     ![anh5](https://github.com/Hoangtan049/Nhom8_QuanLyThuVien_T6_Ca2/assets/132818292/a070658c-4db0-4c0b-b4df-dd4eb2631fa2)
 
-8.	`Kết nối mạng lưới:` Tích hợp với các thư viện và nguồn tài liệu khác để tăng cường khả năng tìm kiếm và cung cấp nguồn tài liệu đa dạng.
+6.	`Kết nối mạng lưới:` Tích hợp với các thư viện và nguồn tài liệu khác để tăng cường khả năng tìm kiếm và cung cấp nguồn tài liệu đa dạng.
 
      ![professional-networking-mbaandrews-min](https://github.com/Hoangtan049/Nhom8_QuanLyThuVien_T6_Ca2/assets/132818292/bed95d9a-c39b-4319-a136-700cd73cae2a)
 
 
-10.	`Hỗ trợ nhiều ngôn ngữ:` Đảm bảo rằng hệ thống có khả năng hỗ trợ nhiều ngôn ngữ để mở rộng phạm vi sử dụng.
+7.	`Hỗ trợ nhiều ngôn ngữ:` Đảm bảo rằng hệ thống có khả năng hỗ trợ nhiều ngôn ngữ để mở rộng phạm vi sử dụng.
     
      ![anh6](https://github.com/Hoangtan049/Nhom8_QuanLyThuVien_T6_Ca2/assets/132818292/fe0ab215-9620-466d-bc7e-582e614b65ca)
 
 
-12.	`Phân tích dữ liệu và thông tin:` Sử dụng phân tích dữ liệu để hiểu hơn về người dùng, nhu cầu của họ và cải thiện dịch vụ.
+8.	`Phân tích dữ liệu và thông tin:` Sử dụng phân tích dữ liệu để hiểu hơn về người dùng, nhu cầu của họ và cải thiện dịch vụ.
     
     ![anh7](https://github.com/Hoangtan049/Nhom8_QuanLyThuVien_T6_Ca2/assets/132818292/939b0c3d-f783-4446-a109-153a4ee20b74)
 
-13.	`Học máy và trí tuệ nhân tạo:` Áp dụng học máy và trí tuệ nhân tạo để tối ưu hóa quy trình quản lý và dự đoán nhu cầu của người dùng.
+9.	`Học máy và trí tuệ nhân tạo:` Áp dụng học máy và trí tuệ nhân tạo để tối ưu hóa quy trình quản lý và dự đoán nhu cầu của người dùng.
     
     ![anh8](https://github.com/Hoangtan049/Nhom8_QuanLyThuVien_T6_Ca2/assets/132818292/2a45d89f-a623-40da-9d23-8428114b95c7)
 
-15.	`Đổi mới liên tục:` Thư viện web cần liên tục theo dõi sự phát triển trong lĩnh vực số hóa và công nghệ thông tin để không bị lạc hậu.
+10.	`Đổi mới liên tục:` Thư viện web cần liên tục theo dõi sự phát triển trong lĩnh vực số hóa và công nghệ thông tin để không bị lạc hậu.
 
     ![anh9](https://github.com/Hoangtan049/Nhom8_QuanLyThuVien_T6_Ca2/assets/132818292/cc6c89f8-676a-4972-960f-e068fd6e4c48)
 
