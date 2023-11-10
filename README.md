@@ -150,6 +150,18 @@ Visual Studio Code là một trình soạn thảo mã nguồn mạnh mẽ và ph
 
 <img src="https://github.com/Hoangtan049/Nhom8_QuanLyThuVien_T6_Ca2/assets/132818292/581d3e83-367d-4bae-9b22-e57226ad358a" alt="Hình ảnh C#" height="50">
 
+C# (phát âm là "C Sharp") là một ngôn ngữ lập trình được phát triển bởi Microsoft. Nó được thiết kế để phát triển ứng dụng trên nền tảng Microsoft, bao gồm phần mềm Windows, ứng dụng web ASP.NET, ứng dụng di động và nhiều ứng dụng khác. Dưới đây là một số điểm nổi bật về ngôn ngữ lập trình C#:
+1.	`Ngôn ngữ Cấu trúc:` C# là một ngôn ngữ lập trình cấu trúc, có cú pháp tương tự C và C++. Nó hỗ trợ các cấu trúc điều khiển như vòng lặp, điều kiện, và hàm.
+2.	`Tích hợp Sâu với Nền tảng Microsoft:` C# là ngôn ngữ chính trong môi trường phát triển phần mềm Microsoft. Nó hoàn toàn tích hợp với hệ điều hành Windows, Visual Studio (IDE phát triển ứng dụng của Microsoft), và nền tảng phát triển Microsoft .NET.
+3.	`Cung cấp Môi trường Lập trình Có chứa:` Visual Studio là một môi trường phát triển tích hợp cho C# và là một trong những IDE phát triển phần mềm mạnh mẽ nhất. Nó cung cấp các tính năng như chỉnh sửa mã, gỡ lỗi, kiểm tra mã, thiết kế giao diện, và quản lý dự án.
+4.	`Quản lý Bộ rác (Garbage Collection):` C# sử dụng bộ thu gom rác để quản lý bộ nhớ, giúp giảm căng thẳng của người phát triển trong việc quản lý bộ nhớ và ngăn chặn lỗi bộ nhớ.
+5.	`Hỗ trợ Đa luồng:` C# hỗ trợ lập trình đa luồng, cho phép bạn thực hiện nhiều công việc đồng thời trong ứng dụng của bạn.
+6.	`Hệ thống kiểu An toàn:` C# có hệ thống kiểu an toàn, giúp tránh được nhiều lỗi thời gian biên dịch và chạy.
+7.	`Phát triển ứng dụng Đa nền tảng:` C# không chỉ hạn chế trong việc phát triển trên nền tảng Windows. Với .NET Core (nay được gộp vào .NET 5 và .NET 6), bạn có thể phát triển ứng dụng C# cho nhiều nền tảng khác nhau, bao gồm Linux và macOS.
+8.	`Hỗ trợ Cộng đồng Mạnh mẽ:` C# có một cộng đồng phát triển lớn và tích cực. Có nhiều thư viện, framework, và tài liệu hữu ích có sẵn để giúp bạn trong quá trình phát triển ứng dụng.
+C# là một ngôn ngữ lập trình phổ biến trong phát triển ứng dụng và phần mềm trên nền tảng Microsoft, và nó cung cấp các công cụ mạnh mẽ và hỗ trợ mà người phát triển cần để xây dựng ứng dụng đa dạng và hiệu quả.
+
+
 
 <a name="Huongphattrien"></a>
 ## V.📈 Hướng phát triển 📈
