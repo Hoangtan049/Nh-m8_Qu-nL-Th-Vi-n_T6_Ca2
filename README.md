@@ -92,13 +92,64 @@ Quản lý thư viện web là một phần quan trọng trong việc duy trì v
 ## IV. 🛠 Công nghệ sử dụng
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" title="JavaScript" height="25"/> &nbsp;
-<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" title="TypeScript" height="25"/> &nbsp;
-<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" title="HTML5" height="25"/> &nbsp;
-<img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" title="Bootstrap" height="25"/> &nbsp;
-<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" title="git" height="25"/> &nbsp;
-<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC"  title="Visual Studio Code" height="25"/> &nbsp;
-<img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" title="WordPress" height="25"/> &nbsp;
+
+<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" title="HTML5" height="50"/> &nbsp;
+
+HTML5 (HyperText Markup Language 5) là phiên bản mới nhất của ngôn ngữ đánh dấu HTML, được sử dụng để xây dựng và cấu trúc các trang web và ứng dụng web. HTML5 cung cấp nhiều tính năng và khả năng mới so với các phiên bản trước, giúp tạo ra các trải nghiệm web mạnh mẽ và đa dạng hơn. Dưới đây là một số tính năng quan trọng của HTML5:
+1.	`Semantic Elements:` HTML5 đưa ra nhiều thẻ mới với ý nghĩa ngữ nghĩa, giúp cải thiện cấu trúc của trang web và làm cho mã nguồn trở nên dễ đọc hơn. Các thẻ như &lt;header&gt;, &lt;nav&gt;, &lt;section&gt;, &lt;article&gt;, &lt;footer&gt;<header>, <nav>, <section>, <article>, <footer> giúp phân chia và mô tả nội dung một cách rõ ràng.
+2.	`Multimedia Support:` HTML5 hỗ trợ tích hợp phương tiện đa phương tiện một cách tiện lợi, bao gồm audio và video. Bạn có thể sử dụng thẻ <audio> và <video> để nhúng âm thanh và video trực tiếp vào trang web mà không cần sử dụng các plugin bên ngoài.
+3.	`Canvas and SVG:` HTML5 cung cấp các phương tiện để vẽ đồ họa và đồ thị trực tiếp trên trình duyệt thông qua thẻ <canvas> và hỗ trợ cho SVG (Scalable Vector Graphics).
+4.	`Offline Application Cache:` HTML5 cho phép bạn tạo các ứng dụng web có khả năng làm việc offline thông qua ứng dụng cache. Người dùng có thể truy cập các trang web offline sau khi đã truy cập chúng một lần.
+5.	`Web Storage:` HTML5 cung cấp cơ chế lưu trữ dữ liệu trên máy khách, bao gồm Local Storage và Session Storage, giúp cải thiện hiệu suất và tương tác người dùng.
+6.	`Geolocation:` HTML5 cho phép ứng dụng web truy cập thông tin định vị của người dùng, giúp tạo ra các ứng dụng liên quan đến vị trí như bản đồ và hướng dẫn.
+7.	`Web Workers:` Đây là một tính năng cho phép bạn thực hiện công việc đa luồng trong trình duyệt, cải thiện hiệu suất của ứng dụng web.
+8.	`Web Sockets:` Hỗ trợ Web Sockets cho phép truyền dữ liệu hai chiều giữa máy chủ và trình duyệt một cách thời gian thực.
+HTML5 đã trở thành một chuẩn trong việc phát triển các ứng dụng web hiện đại và đáp ứng, cung cấp cho nhà phát triển nhiều công cụ và tính năng mạnh mẽ để xây dựng các ứng dụng web đa dạng và tương tác.
+
+
+<img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" title="Bootstrap" height="50"/> &nbsp;
+
+Bootstrap là một framework phát triển web mã nguồn mở phổ biến, được xây dựng bởi Twitter, và hiện đã được duy trì bởi một cộng đồng lớn các nhà phát triển. Bootstrap giúp tạo ra các trang web và ứng dụng web đẹp, hiệu quả và đáp ứng một cách nhanh chóng. Dưới đây là một số điểm quan trọng về Bootstrap:
+1.	`Hệ thống Grid:` Bootstrap cung cấp một hệ thống grid mạnh mẽ, linh hoạt và dễ sử dụng, giúp bạn xây dựng giao diện đáp ứng dễ dàng. Bằng cách sử dụng lưới, bạn có thể chia bố cục trang web thành các cột và hàng, điều này giúp điều chỉnh bố cục cho các thiết bị và kích thước màn hình khác nhau.
+2.	`CSS Thiết kế:` Bootstrap đi kèm với một bộ CSS mà bạn có thể sử dụng để tùy chỉnh giao diện trang web của bạn. Nó cung cấp nhiều lớp và thành phần CSS để tạo ra các phần tử giao diện như nút, biểu đồ, bảng, biểu mẫu, và nhiều khối xây dựng.
+3.	`Thành phần Giao diện người dùng:` Bootstrap cung cấp một loạt các thành phần giao diện người dùng sẵn có như thanh điều hướng, thẻ, nút, thanh tiêu đề, thông báo, cửa sổ modal, và nhiều thành phần khác. Điều này giúp bạn tạo ra giao diện trang web một cách dễ dàng và nhanh chóng.
+4.	`Hỗ trợ Đáp ứng:` Bootstrap được xây dựng với sự đáp ứng trong tâm trí, cho phép bạn tạo ra các trang web có thể hiển thị đẹp trên nhiều thiết bị và kích thước màn hình khác nhau, từ máy tính để bàn đến điện thoại di động.
+5.	`Hỗ trợ Trình duyệt:` Bootstrap hỗ trợ nhiều trình duyệt phổ biến, bao gồm Chrome, Firefox, Safari, Edge và Internet Explorer, giúp đảm bảo tính nhất quán trên nhiều nền tảng.
+6.	`Cộng đồng và Tài liệu phong phú:` Bootstrap có một cộng đồng sáng tạo và tích cực, nên có nhiều tài liệu, ví dụ, và tài nguyên trực tuyến dễ dàng truy cập. Nếu bạn gặp vấn đề hoặc cần giúp đỡ, có nhiều nguồn thông tin sẵn sàng giúp bạn.
+7.	`Tích hợp JavaScript:` Bootstrap cung cấp nhiều tiện ích JavaScript như sẵn sàng sử dụng, bao gồm hiệu ứng trượt, điều hướng, xổ xuống, hộp thoại modal, và nhiều thành phần khác.
+Bootstrap là một công cụ mạnh mẽ cho phát triển web, đặc biệt là cho các dự án cần tạo ra giao diện đẹp và đáp ứng một cách nhanh chóng.
+
+
+<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" title="git" height="50"/> &nbsp;
+
+Git là một hệ thống quản lý mã nguồn phân tán (Distributed Version Control System - DVCS) mã nguồn mở phổ biến. Nó được phát triển bởi Linus Torvalds vào năm 2005 và đã trở thành một công cụ quan trọng cho phát triển phần mềm và quản lý mã nguồn. Dưới đây là một số điểm quan trọng về Git:
+1.	`Quản lý Phiên bản:` Git cho phép bạn theo dõi, lưu trữ và quản lý lịch sử phiên bản của mã nguồn. Bạn có thể theo dõi sự thay đổi của tất cả các tệp và thư mục trong dự án của bạn theo thời gian, cho phép bạn quay lại bất kỳ phiên bản nào của mã nguồn.
+2.	`Hệ thống Phiên bản Phân tán:` Git là một hệ thống phiên bản phân tán, có nghĩa rằng bạn có thể làm việc trên mã nguồn của mình cả khi không có kết nối internet. Mỗi bản sao của dự án là một phiên bản đầy đủ, có toàn bộ lịch sử phiên bản.
+3.	`Branching và Merging:` Git cho phép bạn tạo ra các nhánh (branches) riêng biệt từ phiên bản gốc để phát triển tính năng mới mà không ảnh hưởng đến mã nguồn chính. Sau đó, bạn có thể hợp nhánh (merge) các thay đổi từ các nhánh con về nhánh gốc.
+4.	`Xác nhận (Commit) và Lưu trữ:` Bạn có thể thực hiện xác nhận (commit) các thay đổi trong mã nguồn và lưu trữ chúng trong lịch sử của dự án. Mỗi xác nhận đi kèm với một tin nhắn giúp mô tả những thay đổi đã được thực hiện.
+5.	`Khả năng hợp tác:` Git được sử dụng phổ biến trong việc làm việc nhóm, cho phép nhiều nhà phát triển làm việc trên cùng một dự án. Bạn có thể tải lên và chia sẻ mã nguồn trực tiếp trên các dịch vụ như GitHub, GitLab và Bitbucket.
+6.	`Tài liệu và Cộng đồng mạnh mẽ:` Git có nhiều tài liệu, sách, và nguồn học trực tuyến giúp bạn nắm vững cách sử dụng nó. Cộng đồng phát triển mã nguồn mở xung quanh Git cũng rất lớn và sẵn sàng giúp đỡ.
+7.	`Nền tảng đa nhiệm:` Git có sẵn cho nhiều hệ điều hành như Linux, Windows, và macOS.
+8.	`Phần mềm Dòng lệnh và Giao diện Đồ họa:` Git có phiên bản dòng lệnh (command-line) và nhiều giao diện đồ họa (GUI) để bạn lựa chọn, giúp tạo ra trải nghiệm tùy chỉnh dựa trên sở thích của bạn.
+Git là một công cụ quan trọng cho phát triển phần mềm, quản lý mã nguồn và hợp tác dự án phức tạp. Nó đã trở thành một công cụ quan trọng trong cộng đồng phát triển phần mềm và công nghiệp công nghệ thông tin.
+
+
+<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC"  title="Visual Studio Code" height="50"/> &nbsp;
+
+Visual Studio Code, thường được gọi là VS Code, là một trình soạn thảo mã nguồn mã nguồn mở và miễn phí phát triển bởi Microsoft. Nó được thiết kế để làm việc với nhiều ngôn ngữ lập trình và cung cấp một loạt tính năng mạnh mẽ cho phát triển ứng dụng. Dưới đây là một số điểm nổi bật về Visual Studio Code:
+1.	`Miễn phí và mã nguồn mở:` VS Code là một phần mềm mã nguồn mở và hoàn toàn miễn phí để sử dụng. Bạn có thể tải về và cài đặt nó trên nhiều hệ điều hành như Windows, macOS và Linux.
+2.	`Hỗ trợ Nhiều Ngôn ngữ:` VS Code hỗ trợ nhiều ngôn ngữ lập trình và cung cấp tính năng nhấn mạnh cú pháp và thông báo lỗi cho nhiều ngôn ngữ khác nhau. Bạn có thể cài đặt các phần mở rộng (extensions) để mở rộng hỗ trợ cho ngôn ngữ mới.
+3.	`Giao diện dễ sử dụng:` VS Code có giao diện người dùng tương đối đơn giản và dễ sử dụng. Bạn có thể tùy chỉnh giao diện theo ý muốn và sắp xếp các cửa sổ và tab để làm việc một cách hiệu quả.
+4.	`Tích hợp Git:` VS Code tích hợp sâu với Git, cho phép bạn quản lý phiên bản mã nguồn dễ dàng. Bạn có thể theo dõi, commit, pull, và push mã nguồn một cách trực quan thông qua giao diện.
+5.	`Tùy chỉnh và Mở rộng:` Bạn có thể tùy chỉnh VS Code bằng cách cài đặt các phần mở rộng và themes từ Visual Studio Marketplace. Có hàng ngàn phần mở rộng có sẵn để cải thiện trải nghiệm làm việc của bạn.
+6.	`Chức năng Thông minh:` VS Code có các tính năng thông minh như gợi ý mã, tự động hoàn thành, phân tích mã, và gỡ lỗi tích hợp giúp bạn viết mã nhanh hơn và hiệu quả hơn.
+7.	`Hỗ trợ Hệ thống Build và Gỡ lỗi:` Bạn có thể cài đặt và tùy chỉnh các hệ thống build và gỡ lỗi cho dự án của mình. VS Code hỗ trợ nhiều ngôn ngữ và môi trường phát triển.
+8.	`Giao diện Dòng lệnh tích hợp:` VS Code cung cấp một terminal tích hợp giúp bạn thực hiện các lệnh dòng lệnh mà không cần rời khỏi trình soạn thảo.
+Visual Studio Code là một trình soạn thảo mã nguồn mạnh mẽ và phổ biến được sử dụng rộng rãi trong cộng đồng phát triển phần mềm và phù hợp cho các dự án phát triển ứng dụng trên nhiều nền tảng và ngôn ngữ lập trình.
+
+
+<img src="https://github.com/Hoangtan049/Nhom8_QuanLyThuVien_T6_Ca2/assets/132818292/581d3e83-367d-4bae-9b22-e57226ad358a" alt="Hình ảnh C#" height="50">
+
 
 <a name="Huongphattrien"></a>
 ## V.📈 Hướng phát triển 📈
