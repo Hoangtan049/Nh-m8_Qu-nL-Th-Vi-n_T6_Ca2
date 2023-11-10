@@ -7,8 +7,6 @@
 [III. ✍️ Những nội dung làm được ✍️](#noidunglamduoc)
 - [1. Giao diện](#giaodien)
   - [1.1 Trang chủ](#trangchu)
-  - [1.2 Trang Admin](#trangadmin)
-  - [1.3 Trang User](#tranguser)
 - [2. Chức năng](#chucnang)
   - [2.1 Mượn sách](#muonsach)
   - [2.2 Tìm kiếm sách theo tên](#timkiem)
@@ -41,6 +39,17 @@ Trang web giúp thư viện quản lý số lượng sách còn lại trong kho 
 
 <a name="noidunglamduoc"></a>
 ## III. ✍️ Những nội dung làm được ✍️
+Quản lý thư viện web là một phần quan trọng trong việc duy trì và cung cấp tài liệu thông qua môi trường trực tuyến. Dưới đây là một số nội dung quan trọng mà bạn có thể làm được khi quản lý thư viện web:
+1.	`Quản lý và cung cấp tài liệu:` Thư viện web cung cấp một giao diện trực tuyến cho người dùng truy cập và tìm kiếm tài liệu. Bạn có thể tổ chức tài liệu thành các danh mục, thể loại, tác giả, hoặc theo bất kỳ tiêu chí nào để giúp người dùng dễ dàng tìm kiếm và truy cập tài liệu cần thiết.
+2.	`Quản lý mượn và trả sách:` Hệ thống quản lý thư viện web cung cấp khả năng đăng ký, mượn, và trả sách trực tuyến. Người dùng có thể đặt sách, xem lịch sử mượn sách của họ và thực hiện các giao dịch liên quan đến sách.
+3.	`Hệ thống tìm kiếm:` Cung cấp chức năng tìm kiếm nâng cao để giúp người dùng tìm kiếm tài liệu dựa trên nhiều tiêu chí như từ khóa, tên tác giả, tiêu đề, hoặc danh mục.
+4.	`Xác thực và bảo mật:` Đảm bảo rằng dữ liệu người dùng, thông tin tài liệu, và quá trình mượn sách đều được bảo vệ và xác thực an toàn. Hệ thống này cần đảm bảo tính riêng tư và an toàn cho người dùng.
+5.	`Báo cáo và thống kê:` Cung cấp báo cáo về việc sử dụng thư viện, tình trạng sách, và các thống kê khác để hỗ trợ trong quản lý và ra quyết định.
+6.	`Quản lý người dùng:` Quản lý thông tin của người dùng, cung cấp tài khoản cá nhân, đăng ký, và quản lý quyền truy cập dựa trên vai trò của họ.
+7.	`Thông báo và giao tiếp:` Cung cấp cách liên lạc với người dùng, thông báo về hạn trả sách, thông tin sự kiện, và các tin tức thư viện khác.
+
+
+
 <a name="giaodien"></a>
 <h2><strong>Giao diện</strong></h2>
 <a name="trangchu"></a>
@@ -50,15 +59,6 @@ Trang web giúp thư viện quản lý số lượng sách còn lại trong kho 
 
 ![trangchu2](https://github.com/Hoangtan049/Nhom8_QuanLyThuVien_T6_Ca2/assets/132818292/61d206dc-e4ca-4c93-96bf-4e7f0ad7da98)
 
-<a name="trangadmin"></a>
-<h3><strong>🖥️Trang Admin</strong></h3>
-
-![trangadmin](https://github.com/Hoangtan049/Nhom8_QuanLyThuVien_T6_Ca2/assets/132818292/7a4de165-7b24-4a74-9e57-bd80aced2c58)
-
-<a name="tranguser"></a>
-<h3><strong>🖥️Trang User</strong></h3>
-
-<a name="Tools"></a>![trangLogincuaUser](https://github.com/Hoangtan049/Nhom8_QuanLyThuVien_T6_Ca2/assets/132818292/5b9f0dd3-4f18-4ad7-bc16-54490f6854f7)
 
 <a name="chucnang"></a>
 <h2><strong>Chức năng</strong></h2>
