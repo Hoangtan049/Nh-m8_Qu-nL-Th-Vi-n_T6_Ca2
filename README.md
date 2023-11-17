@@ -13,6 +13,7 @@
   - [2.3 Quản lý thẻ mượn sách](#qlthemuonsach)
   - [2.4 Quản lý đọc giả](#qldocgia)
   - [2.5 Quản lý thư viện sách](#qlthuviensach)
+- [3. MS Project](#msproject)
 
 
 
@@ -87,6 +88,16 @@ Quản lý thư viện web là một phần quan trọng trong việc duy trì v
 <h3><strong>Quản lý thư viện sách</strong></h3>
 
 ![quanlythuviensach](https://github.com/Hoangtan049/Nhom8_QuanLyThuVien_T6_Ca2/assets/132818292/e5d10f0d-0403-4efa-b2f3-e756c881a195)
+
+
+<a name="Ms Project"></a>
+<h2><strong>MS Project</strong></h2>
+
+![anh1](https://github.com/Hoangtan049/Nhom8_QuanLyThuVien_T6_Ca2/assets/132818292/5ba65db0-a6fc-4cd9-bba6-9a051b6aa534)
+
+![anh2](https://github.com/Hoangtan049/Nhom8_QuanLyThuVien_T6_Ca2/assets/132818292/5b6d0ba5-ee80-4b21-9046-102769a10b1f)
+
+
 
 <a name="Tools"></a>
 ## IV. 🛠 Công nghệ sử dụng
